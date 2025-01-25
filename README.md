@@ -4,7 +4,6 @@ Manuscript and reproducible notebooks for waiting-times manuscript
 
 ### Files
 
-- manuscript: Latex and PDF files for the manuscript.  
 - notebooks: Jupyter notebooks with reproducible code (see links below).  
 - scripts: Python scripts for execution on HPC.  
 
